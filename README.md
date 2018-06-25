@@ -1,4 +1,4 @@
-# ISS
+# ISS 
 ISS is a simple python script that shows you the location of the International Space Station in your terminal.
 
 ## Installation
@@ -25,3 +25,6 @@ Just run:
 ```bash
 python3 iss.py
 ```
+<hr>
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/ewpratten)
